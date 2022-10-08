@@ -13,5 +13,5 @@
   </ul>
 </li>
 
-## 3 Code chính:
+## 3 Code:
 <li> <a href = "https://github.com/luckymouse96/mushrooms-classification/blob/main/main_code.ipynb"> Main Code </a> </li>
